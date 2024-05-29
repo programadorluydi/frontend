@@ -1,0 +1,13 @@
+body{
+    /* Background-color muda a cor de fundo da pagina*/
+    background-color: rgb(255, 166, 0);
+}
+
+h1{
+    /* Mudar a letra do texto com font-family */
+    font-family: "arial";
+    /* Mudar o tamanho da letra */
+    font-size:40pt;
+    /* alinhar texto no centro */
+    text-align: center;
+}
